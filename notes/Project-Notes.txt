@@ -1,0 +1,3 @@
+The start fase of the project had two distinct facets.
+One was to build a mechanism for allowing users to select arbitrary sections of the text while still keeping the document well formed.
+The other was to create a mechanism which allowed users to select what a selected portion of the text was referring to, and which stored this data using semantic markup.
