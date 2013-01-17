@@ -21,3 +21,6 @@ Engineering(#n#2)
 Scale(#n#1)
 	L:Quantity via measure#n#2
 	R:Intangible via definite_quantity#n#1 parent
+District(#n#1)
+	L:Thing via entity#n#1
+	R:Place via geological_formation#n#1 parent
