@@ -14,3 +14,5 @@ quotation#noun#2 maps to schema MusicRecording, since quotation#noun#2<excerpt#n
 It might be that we should stop looking for parents when we get to a hypernym which has two parents, as it is possible that one of these do not maintain the truth value of the synset in question. 
 section#n#1 having both music#n#1 and writing#n#1 as hypernymes being a prime example.
 It might be better to stop the search and add a default schema:Thing value to the returned JSON instead
+
+tumor#n#1 mapps to OfferItemCondition via growth#n#6<ill_health#n#1<pathological_state#n#1<condition#n#1 which mapps directly to schema:OfferItemCondition. This mapping might be to liberal.
