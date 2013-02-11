@@ -1,62 +1,62 @@
-synset-abdomen-noun-1
+synset-abdomen-noun-1 -  (the region of the body of a vertebrate between the thorax and the pelvis)
 	lin: Thing, level: 0
-	rec: Landform, level: 2
+	rec: Landform, level: 2, wrong, A landform or physical feature. Landform elements include mountains, plains, lakes, rivers, seascape and oceanic waterbody interface features such as bays, peninsulas, seas and so forth, including sub-aqueous terrain features such as submersed mountain ranges, volcanoes, and the great ocean basins.
 
 synset-ability-noun-2
 	lin: Intangible, level: 1
 	rec: Thing, level: 0
 
-synset-account-noun-3
+synset-account-noun-3 (a formal contractual relationship established to provide for regular banking or brokerage or business services; "he asked to see the executive who handled his account")
 	lin: Intangible, level: 1
-	rec: Enumeration, level: 2
+	rec: Enumeration, level: 2 wrong, Lists or enumerations—for example, a list of cuisines or music genres, etc.
 
 synset-acculturation-noun-2
 	lin: Intangible, level: 1
 	rec: Thing, level: 0
 
-synset-acerate_leaf-noun-1
+synset-acerate_leaf-noun-1 (the leaf of a conifer)
 	lin: Thing, level: 0
-	rec: Place, level: 1
+	rec: Place, level: 1 wrong, Entities that have a somewhat fixed, physical extension.
 
-synset-act-noun-4
-	lin: SocialEvent, level: 2
+synset-act-noun-4  (a short theatrical performance that is part of a longer program; "he did his act three times every evening"; "she had a catchy little routine"; "it was one of the best numbers he ever did")
+	lin: SocialEvent, level: 2 maybe?, Event type: Social event.
 	rec: CreativeWork, level: 1
 
-synset-action-noun-2
+synset-action-noun-2  (the state of being active; "his sphere of activity"; "he is out of action")
 	lin: Intangible, level: 1
-	rec: Enumeration, level: 2
+	rec: Enumeration, level: 2 wrong, Lists or enumerations—for example, a list of cuisines or music genres, etc.
 
-synset-addition-noun-1
+synset-addition-noun-1  (a component that is added to something to improve it; "the addition of a bathroom was a major improvement"; "the addition of cinnamon improved the flavor")
 	lin: Thing, level: 0
-	rec: Place, level: 1
+	rec: Place, level: 1 wrong, Entities that have a somewhat fixed, physical extension.
 
-synset-addition-noun-3
-	lin: Quantity, level: 2
+synset-addition-noun-3 (a quantity that is added; "there was an addition to property taxes this year"; "they recorded the cattle's gain in weight over a period of weeks")
+	lin: Quantity, level: 2 right
 	rec: Intangible, level: 1
 
-synset-addition-noun-5
+synset-addition-noun-5 (a suburban area laid out in streets and lots for a future residential area)
 	lin: Thing, level: 0
-	rec: Place, level: 1
+	rec: Place, level: 1 right, Entities that have a somewhat fixed, physical extension.
 
-synset-adipose_tissue-noun-1
+synset-adipose_tissue-noun-1 (a kind of body tissue containing stored fat that serves as a source of energy; it also cushions and insulates vital organs; "fatty tissue protected them from the severe cold")
 	lin: Thing, level: 0
-	rec: Landform, level: 2
+	rec: Landform, level: 2 wrong, A landform or physical feature. Landform elements include mountains, plains, lakes, rivers, seascape and oceanic waterbody interface features such as bays, peninsulas, seas and so forth, including sub-aqueous terrain features such as submersed mountain ranges, volcanoes, and the great ocean basins.
 
 synset-administration-noun-2
 	lin: Intangible, level: 1
 	rec: Thing, level: 0
 
-synset-affection-noun-1
+synset-affection-noun-1 (a positive feeling of liking; "he had trouble expressing the affection he felt"; "the child won everyone's heart"; "the warmness of his welcome made us feel right at home")
 	lin: Intangible, level: 1
-	rec: Enumeration, level: 2
+	rec: Enumeration, level: 2 wrong, Lists or enumerations—for example, a list of cuisines or music genres, etc.
 
-synset-afterthought-noun-2
+synset-afterthought-noun-2 (an addition that was not included in the original plan; "the garage was an afterthought")
 	lin: Thing, level: 0
-	rec: Place, level: 1
+	rec: Place, level: 1 wrong, Entities that have a somewhat fixed, physical extension.
 
-synset-agreement-noun-3
+synset-agreement-noun-3  (harmony of people's opinions or actions or characters; "the two parties were in agreement")
 	lin: Intangible, level: 1
-	rec: Enumeration, level: 2
+	rec: Enumeration, level: 2 maybe?, Lists or enumerations—for example, a list of cuisines or music genres, etc.
 
 synset-agreement-noun-4
 	lin: Intangible, level: 1
@@ -66,97 +66,97 @@ synset-aim-noun-2
 	lin: Intangible, level: 1
 	rec: Thing, level: 0
 
-synset-airfield-noun-1
+synset-airfield-noun-1  (a place where planes take off and land)
 	lin: Thing, level: 0
-	rec: CivicStructure, level: 2
+	rec: CivicStructure, level: 2 right, A public structure, such as a town hall or concert hall.
 
-synset-alarm-noun-1
+synset-alarm-noun-1 (fear resulting from the awareness of danger)
 	lin: Intangible, level: 1
-	rec: Enumeration, level: 2
+	rec: Enumeration, level: 2 wrong, Lists or enumerations—for example, a list of cuisines or music genres, etc. 
 
-synset-ampere-noun-2
-	lin: StructuredValue, level: 2
-	rec: Quantity, level: 2
+synset-ampere-noun-2 (the basic unit of electric current adopted under the Systeme International d'Unites; "a typical household circuit carries 15 to 50 amps")
+	lin: StructuredValue, level: 2 right, Structured values are strings—for example, addresses—that have certain constraints on their structure.
+	rec: Quantity, level: 2 right, Quantities such as distance, time, mass, weight, etc. Particular instances of say Mass are entities like '3 Kg' or '4 milligrams'.
 
-synset-amusement-noun-1
+synset-amusement-noun-1 (a feeling of delight at being entertained)
 	lin: Intangible, level: 1
-	rec: Enumeration, level: 2
+	rec: Enumeration, level: 2 wrong, Lists or enumerations—for example, a list of cuisines or music genres, etc. 
 
 synset-analysis-noun-2
 	lin: Intangible, level: 1
 	rec: Thing, level: 0
 
-synset-analysis-noun-3
+synset-analysis-noun-3 (a form of literary criticism in which the structure of a piece of writing is analyzed)
 	lin: Intangible, level: 1
-	rec: CreativeWork, level: 1
+	rec: CreativeWork, level: 1 right, The most generic kind of creative work, including books, movies, photographs, software programs, etc.
 
 synset-analysis-noun-5
 	lin: Intangible, level: 1
 	rec: Thing, level: 0
 
-synset-animal_foot-noun-1
+synset-animal_foot-noun-1  (the pedal extremity of vertebrates other than human beings)
 	lin: Thing, level: 0
-	rec: Landform, level: 2
+	rec: Landform, level: 2 wrong, A landform or physical feature. Landform elements include mountains, plains, lakes, rivers, seascape and oceanic waterbody interface features such as bays, peninsulas, seas and so forth, including sub-aqueous terrain features such as submersed mountain ranges, volcanoes, and the great ocean basins.
 
-synset-annex-noun-1
+synset-annex-noun-1 (an addition that extends a main building)
 	lin: Thing, level: 0
-	rec: Place, level: 1
+	rec: Place, level: 1 right, Entities that have a somewhat fixed, physical extension.
 
 synset-annoyance-noun-4
 	lin: Intangible, level: 1
 	rec: Thing, level: 0
 
-synset-annulus-noun-2
+synset-annulus-noun-2  ((Fungi) a remnant of the partial veil that in mature mushrooms surrounds the stem like a collar)
 	lin: Thing, level: 0
-	rec: Place, level: 1
+	rec: Place, level: 1 wrong, Entities that have a somewhat fixed, physical extension.
 
-synset-anteroom-noun-1
+synset-anteroom-noun-1 (a large entrance or reception room or area)
 	lin: Thing, level: 0
-	rec: EntertainmentBusiness, level: 3
+	rec: EntertainmentBusiness, level: 3 maybe?, A business providing entertainment.
 
-synset-apparatus-noun-2
+synset-apparatus-noun-2 ((anatomy) a group of body parts that work together to perform a given function; "the breathing apparatus")
 	lin: Thing, level: 0
-	rec: Landform, level: 2
+	rec: Landform, level: 2 wrong, A landform or physical feature. Landform elements include mountains, plains, lakes, rivers, seascape and oceanic waterbody interface features such as bays, peninsulas, seas and so forth, including sub-aqueous terrain features such as submersed mountain ranges, volcanoes, and the great ocean basins.
 
-synset-approval-noun-2
+synset-approval-noun-2 (a feeling of liking something or someone good; "although she fussed at them, she secretly viewed all her children with approval")
 	lin: Intangible, level: 1
-	rec: Enumeration, level: 2
+	rec: Enumeration, level: 2 wrong, Lists or enumerations—for example, a list of cuisines or music genres, etc. 
 
-synset-approval-noun-3
+synset-approval-noun-3  (acceptance as satisfactory; "he bought it on approval")
 	lin: Intangible, level: 1
-	rec: Enumeration, level: 2
+	rec: Enumeration, level: 2 wrong, Lists or enumerations—for example, a list of cuisines or music genres, etc. 
 
-synset-arch-noun-2
+synset-arch-noun-2 (a curved bony structure supporting or enclosing organs (especially the inner sides of the feet))
 	lin: Thing, level: 0
-	rec: Landform, level: 2
+	rec: Landform, level: 2 wrong, A landform or physical feature. Landform elements include mountains, plains, lakes, rivers, seascape and oceanic waterbody interface features such as bays, peninsulas, seas and so forth, including sub-aqueous terrain features such as submersed mountain ranges, volcanoes, and the great ocean basins.
 
-synset-arch-noun-4
+synset-arch-noun-4 ((architecture) a masonry construction (usually curved) for spanning an opening and supporting the weight above it)
 	lin: Thing, level: 0
-	rec: SportsActivityLocation, level: 3
+	rec: SportsActivityLocation, level: 3 wrong, A sports location, such as a playing field.
 
-synset-ardor-noun-3
+synset-ardor-noun-3  (feelings of great warmth and intensity; "he spoke with great ardor")
 	lin: Intangible, level: 1
-	rec: Enumeration, level: 2
+	rec: Enumeration, level: 2 wrong, Lists or enumerations—for example, a list of cuisines or music genres, etc. 
 
-synset-area-noun-1
+synset-area-noun-1  (a particular geographical region of indefinite boundary (usually serving some special purpose or distinguished by its people or culture or geography); "it was a mountainous area"; "Bible country")
 	lin: Thing, level: 0
-	rec: Place, level: 1
+	rec: Place, level: 1 maybe, Entities that have a somewhat fixed, physical extension.
 
-synset-area-noun-2
+synset-area-noun-2 (a part of an animal that has a special function or is supplied by a given artery or nerve; "in the abdominal region")
 	lin: Intangible, level: 1
 	rec: Thing, level: 0
 
-synset-area-noun-3
+synset-area-noun-3 (a part of an animal that has a special function or is supplied by a given artery or nerve; "in the abdominal region")
 	lin: Thing, level: 0
-	rec: Landform, level: 2
+	rec: Landform, level: 2 wrong, A landform or physical feature. Landform elements include mountains, plains, lakes, rivers, seascape and oceanic waterbody interface features such as bays, peninsulas, seas and so forth, including sub-aqueous terrain features such as submersed mountain ranges, volcanoes, and the great ocean basins.
 
-synset-area-noun-5
+synset-area-noun-5 (a part of a structure having some specific characteristic or function; "the spacious cooking area provided plenty of room for servants")
 	lin: Thing, level: 0
-	rec: SportsActivityLocation, level: 3
+	rec: SportsActivityLocation, level: 3 wrong, A sports location, such as a playing field.
 
-synset-argument-noun-3
+synset-argument-noun-3  (a discussion in which reasons are advanced for and against some proposition or proposal; "the argument over foreign aid goes on and on")
 	lin: Intangible, level: 1
-	rec: CreativeWork, level: 1
+	rec: CreativeWork, level: 1 Maybe? The most generic kind of creative work, including books, movies, photographs, software programs, etc.
 
 synset-argument-noun-6
 	lin: Intangible, level: 1
@@ -170,13 +170,13 @@ synset-arithmetic-noun-1
 	lin: Intangible, level: 1
 	rec: Thing, level: 0
 
-synset-arm-noun-1
+synset-arm-noun-1 (a human limb; technically the part of the superior limb between the shoulder and the elbow but commonly used to refer to the whole superior limb)
 	lin: Thing, level: 0
-	rec: Landform, level: 2
+	rec: Landform, level: 2 wrong, A landform or physical feature. Landform elements include mountains, plains, lakes, rivers, seascape and oceanic waterbody interface features such as bays, peninsulas, seas and so forth, including sub-aqueous terrain features such as submersed mountain ranges, volcanoes, and the great ocean basins.
 
-synset-arm-noun-2
+synset-arm-noun-2 (any projection that is thought to resemble a human arm; "the arm of the record player"; "an arm of the sea"; "a branch of the sewer")
 	lin: Thing, level: 0
-	rec: SportsActivityLocation, level: 3
+	rec: SportsActivityLocation, level: 3 wrong, A sports location, such as a playing field.
 
 synset-army-noun-2
 	lin: Intangible, level: 1
@@ -190,9 +190,9 @@ synset-arrangement-noun-3
 	lin: Intangible, level: 1
 	rec: Thing, level: 0
 
-synset-arrest-noun-2
+synset-arrest-noun-2 (the state of inactivity following an interruption; "the negotiations were in arrest"; "held them in check"; "during the halt he got some lunch"; "the momentary stay enabled him to escape the blow"; "he spent the entire stop in his seat")
 	lin: Intangible, level: 1
-	rec: Enumeration, level: 2
+	rec: Enumeration, level: 2 wrong, Lists or enumerations—for example, a list of cuisines or music genres, etc. 
 
 synset-art-noun-3
 	lin: Intangible, level: 1
@@ -210,41 +210,41 @@ synset-attention-noun-1
 	lin: Intangible, level: 1
 	rec: Thing, level: 0
 
-synset-attention-noun-3
+synset-attention-noun-3 (a general interest that leads people to want to know more; "She was the center of attention")
 	lin: Intangible, level: 1
-	rec: Place, level: 1
+	rec: Place, level: 1 wrong, Entities that have a somewhat fixed, physical extension.
 
 synset-attention-noun-5
 	lin: Intangible, level: 1
 	rec: Thing, level: 0
 
-synset-attic-noun-3
+synset-attic-noun-3  (informal terms for a human head)
 	lin: Thing, level: 0
-	rec: Landform, level: 2
+	rec: Landform, level: 2 wrong, A landform or physical feature. Landform elements include mountains, plains, lakes, rivers, seascape and oceanic waterbody interface features such as bays, peninsulas, seas and so forth, including sub-aqueous terrain features such as submersed mountain ranges, volcanoes, and the great ocean basins.
 
-synset-attraction-noun-2
-	lin: SocialEvent, level: 2
+synset-attraction-noun-2  (an entertainment that is offered to the public)
+	lin: SocialEvent, level: 2 maybe? Event type: Social event.
 	rec: CreativeWork, level: 1
 
 synset-attraction-noun-4
 	lin: Intangible, level: 1
 	rec: Thing, level: 0
 
-synset-audio-noun-1
+synset-audio-noun-1 (the audible part of a transmitted signal; "they always raise the audio for commercials")
 	lin: Intangible, level: 1
-	rec: CreativeWork, level: 1
+	rec: CreativeWork, level: 1 maybe?, The most generic kind of creative work, including books, movies, photographs, software programs, etc.
 
-synset-auricle-noun-2
+synset-auricle-noun-2 (the externally visible cartilaginous structure of the external ear)
 	lin: Thing, level: 0
-	rec: Landform, level: 2
+	rec: Landform, level: 2 wrong, A landform or physical feature. Landform elements include mountains, plains, lakes, rivers, seascape and oceanic waterbody interface features such as bays, peninsulas, seas and so forth, including sub-aqueous terrain features such as submersed mountain ranges, volcanoes, and the great ocean basins.
 
-synset-back-noun-1
+synset-back-noun-1 (the posterior part of a human (or animal) body from the neck to the end of the spine; "his back was nicely tanned")
 	lin: Thing, level: 0
-	rec: Landform, level: 2
+	rec: Landform, level: 2 wrong, A landform or physical feature. Landform elements include mountains, plains, lakes, rivers, seascape and oceanic waterbody interface features such as bays, peninsulas, seas and so forth, including sub-aqueous terrain features such as submersed mountain ranges, volcanoes, and the great ocean basins.
 
-synset-back-noun-3
+synset-back-noun-3 (the part of something that is furthest from the normal viewer; "he stood at the back of the stage"; "it was hidden in the rear of the store")
 	lin: Thing, level: 0
-	rec: Place, level: 1
+	rec: Place, level: 1 maybe?, Entities that have a somewhat fixed, physical extension.
 
 synset-background-noun-2
 	lin: Intangible, level: 1
@@ -258,121 +258,121 @@ synset-badge-noun-2
 	lin: Intangible, level: 1
 	rec: Thing, level: 0
 
-synset-bag-noun-2
-	lin: Quantity, level: 2
+synset-bag-noun-2 (the quantity of game taken in a particular period (usually by one person); "his bag included two deer")
+	lin: Quantity, level: 2 maybe, Quantities such as distance, time, mass, weight, etc. Particular instances of say Mass are entities like '3 Kg' or '4 milligrams'.
 	rec: Intangible, level: 1
 
-synset-bag-noun-5
-	lin: Quantity, level: 2
+synset-bag-noun-5 (the quantity that a bag will hold; "he ate a large bag of popcorn")
+	lin: Quantity, level: 2 maybe, Quantities such as distance, time, mass, weight, etc. Particular instances of say Mass are entities like '3 Kg' or '4 milligrams'.
 	rec: Intangible, level: 1
 
 synset-bait-noun-1
 	lin: Intangible, level: 1
 	rec: Thing, level: 0
 
-synset-balance-noun-1
+synset-balance-noun-1 (a state of equilibrium)
 	lin: Intangible, level: 1
-	rec: Enumeration, level: 2
+	rec: Enumeration, level: 2 wrong, Lists or enumerations—for example, a list of cuisines or music genres, etc.
 
-synset-balance-noun-4
+synset-balance-noun-4  (equality of distribution)
 	lin: Thing, level: 0
-	rec: SportsActivityLocation, level: 3
+	rec: SportsActivityLocation, level: 3 wrong, A sports location, such as a playing field.
 
-synset-ball-noun-10
+synset-ball-noun-10  (a more or less rounded anatomical body or mass; "the ball at the base of the thumb"; "he stood on the balls of his feet")
 	lin: Thing, level: 0
-	rec: Landform, level: 2
+	rec: Landform, level: 2 wrong, A landform or physical feature. Landform elements include mountains, plains, lakes, rivers, seascape and oceanic waterbody interface features such as bays, peninsulas, seas and so forth, including sub-aqueous terrain features such as submersed mountain ranges, volcanoes, and the great ocean basins.
 
 synset-ball-noun-4
 	lin: Intangible, level: 1
 	rec: Thing, level: 0
 
-synset-bang-noun-4
+synset-bang-noun-4 (the swift release of a store of affective force; "they got a great bang out of it"; "what a boot!"; "he got a quick rush from injecting heroin"; "he does it for kicks")
 	lin: Intangible, level: 1
-	rec: Enumeration, level: 2
+	rec: Enumeration, level: 2 wrong, Lists or enumerations—for example, a list of cuisines or music genres, etc.
 
 synset-banquet-noun-1
 	lin: Intangible, level: 1
 	rec: Thing, level: 0
 
-synset-barn-noun-2
-	lin: StructuredValue, level: 2
-	rec: Quantity, level: 2
+synset-barn-noun-2 ((physics) a unit of nuclear cross section; the effective circular area that one particle presents to another as a target for an encounter)
+	lin: StructuredValue, level: 2 maybe?, Structured values are strings—for example, addresses—that have certain constraints on their structure.
+	rec: Quantity, level: 2 maybe, Quantities such as distance, time, mass, weight, etc. Particular instances of say Mass are entities like '3 Kg' or '4 milligrams'.
 
-synset-base-noun-1
+synset-base-noun-1  (installation from which a military force initiates operations; "the attack wiped out our forward bases")
 	lin: Thing, level: 0
-	rec: CivicStructure, level: 2
+	rec: CivicStructure, level: 2 right, A public structure, such as a town hall or concert hall.
 
-synset-base-noun-14
+synset-base-noun-14 (the place where you are stationed and from which missions start and end)
 	lin: Thing, level: 0
-	rec: Place, level: 1
+	rec: Place, level: 1 right, Entities that have a somewhat fixed, physical extension.
 
-synset-base-noun-18
+synset-base-noun-18 (the principal ingredient of a mixture; "glycerinated gelatin is used as a base for many ointments"; "he told the painter that he wanted a yellow base with just a hint of green"; "everything she cooked seemed to have rice as the base")
 	lin: Thing, level: 0
-	rec: Place, level: 1
+	rec: Place, level: 1 wrong, Entities that have a somewhat fixed, physical extension.
 
-synset-base-noun-19
+synset-base-noun-19 (a flat bottom on which something is intended to sit; "a tub should sit on its own base")
 	lin: Thing, level: 0
-	rec: Place, level: 1
+	rec: Place, level: 1 wrong, Entities that have a somewhat fixed, physical extension.
 
-synset-base-noun-4
+synset-base-noun-4 (the bottom or lowest part; "the base of the mountain")
 	lin: Thing, level: 0
-	rec: Landform, level: 2
+	rec: Landform, level: 2 maybe?, Entities that have a somewhat fixed, physical extension.
 
-synset-base-noun-5
+synset-base-noun-5 ((anatomy) the part of an organ nearest its point of attachment; "the base of the skull")
 	lin: Thing, level: 0
-	rec: Place, level: 1
+	rec: Place, level: 1 wrong, Entities that have a somewhat fixed, physical extension.
 
-synset-basement-noun-1
+synset-basement-noun-1 (the lowermost portion of a structure partly or wholly below ground level; often used for storage)
 	lin: Thing, level: 0
-	rec: SportsActivityLocation, level: 3
+	rec: SportsActivityLocation, level: 3 wrong, A sports location, such as a playing field.
 
-synset-basin-noun-2
-	lin: Quantity, level: 2
+synset-basin-noun-2 (the quantity that a basin will hold; "a basinful of water")
+	lin: Quantity, level: 2 right, Quantities such as distance, time, mass, weight, etc. Particular instances of say Mass are entities like '3 Kg' or '4 milligrams'.
 	rec: Intangible, level: 1
 
-synset-basin-noun-3
-	lin: Landform, level: 2
-	rec: CivicStructure, level: 2
+synset-basin-noun-3 (a natural depression in the surface of the land often with a lake at the bottom of it; "the basin of the Great Salt Lake")
+	lin: Landform, level: 2 right, A landform or physical feature. Landform elements include mountains, plains, lakes, rivers, seascape and oceanic waterbody interface features such as bays, peninsulas, seas and so forth, including sub-aqueous terrain features such as submersed mountain ranges, volcanoes, and the great ocean basins.
+	rec: CivicStructure, level: 2 maybe, A public structure, such as a town hall or concert hall. (subtypes Park etc.)
 
 synset-basis-noun-2
 	lin: Intangible, level: 1
 	rec: Thing, level: 0
 
-synset-basket-noun-2
-	lin: Quantity, level: 2
+synset-basket-noun-2  (the quantity contained in a basket)
+	lin: Quantity, level: 2 right, Quantities such as distance, time, mass, weight, etc. Particular instances of say Mass are entities like '3 Kg' or '4 milligrams'.
 	rec: Intangible, level: 1
 
-synset-batch-noun-2
-	lin: Quantity, level: 2
+synset-batch-noun-2  ((often followed by `of') a large number or amount or extent; "a batch of letters"; "a deal of trouble"; "a lot of money"; "he made a mint on the stock market"; "see the rest of the winners in our huge passel of photos"; "it must have cost plenty"; "a slew of journalists"; "a wad of money")
+	lin: Quantity, level: 2 right, Quantities such as distance, time, mass, weight, etc. Particular instances of say Mass are entities like '3 Kg' or '4 milligrams'.
 	rec: Intangible, level: 1
 
-synset-battlefield-noun-1
+synset-battlefield-noun-1 (a region where a battle is being (or has been) fought; "they made a tour of Civil War battlefields")
 	lin: Thing, level: 0
-	rec: CivicStructure, level: 2
+	rec: CivicStructure, level: 2 wrong, A public structure, such as a town hall or concert hall. (subtypes Park etc.)
 
-synset-bean-noun-2
+synset-bean-noun-2  (any of various seeds or fruits that are beans or resemble beans)
 	lin: Thing, level: 0
-	rec: Place, level: 1
+	rec: Place, level: 1 wrong, Entities that have a somewhat fixed, physical extension.
 
-synset-bed-noun-2
+synset-bed-noun-2 (a plot of ground in which plants are growing; "the gardener planted a bed of roses")
 	lin: Thing, level: 0
-	rec: CivicStructure, level: 2
+	rec: CivicStructure, level: 2 wrong, A public structure, such as a town hall or concert hall. (subtypes Park etc.)
 
-synset-bed-noun-3
-	lin: Landform, level: 2
-	rec: CivicStructure, level: 2
+synset-bed-noun-3 (a depression forming the ground under a body of water; "he searched for treasure on the ocean bed")
+	lin: Landform, level: 2 right, A landform or physical feature. Landform elements include mountains, plains, lakes, rivers, seascape and oceanic waterbody interface features such as bays, peninsulas, seas and so forth, including sub-aqueous terrain features such as submersed mountain ranges, volcanoes, and the great ocean basins. 
+	rec: CivicStructure, level: 2 wrong, A public structure, such as a town hall or concert hall. (subtypes Park etc.)
 
-synset-bed-noun-4
+synset-bed-noun-4 ((geology) a stratum of rock (especially sedimentary rock); "they found a bed of sandstone")
 	lin: Thing, level: 0
-	rec: Place, level: 1
+	rec: Place, level: 1 wrong, Entities that have a somewhat fixed, physical extension.
 
-synset-bed-noun-8
+synset-bed-noun-8  (a foundation of earth or rock supporting a road or railroad track; "the track bed had washed away")
 	lin: Thing, level: 0
-	rec: SportsActivityLocation, level: 3
+	rec: SportsActivityLocation, level: 3 wrong, A sports location, such as a playing field.
 
-synset-bedroom-noun-1
+synset-bedroom-noun-1 (a room used primarily for sleeping)
 	lin: Thing, level: 0
-	rec: EntertainmentBusiness, level: 3
+	rec: EntertainmentBusiness, level: 3 wrong, A business providing entertainment.
 
 synset-bee-noun-2
 	lin: Intangible, level: 1
