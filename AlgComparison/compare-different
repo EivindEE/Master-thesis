@@ -626,113 +626,113 @@ synset-cable_car-noun-1 - (a conveyance for passengers or freight on a cable rai
 	lin: Thing, level: 0
 	rec: EntertainmentBusiness, level: 3 maybe?, A business providing entertainment.
 
-synset-cable_television-noun-1
+synset-cable_television-noun-1 (television that is transmitted over cable directly to the receiver)
 	lin: Thing, level: 0
-	rec: MusicPlaylist, level: 2
+	rec: MusicPlaylist, level: 2 wrong, A collection of music tracks in playlist form.
 
 synset-calendar-noun-1
 	lin: Intangible, level: 1
 	rec: Thing, level: 0
 
-synset-calf-noun-2
+synset-calf-noun-2 (the muscular back part of the shank)
 	lin: Thing, level: 0
-	rec: Landform, level: 2
+	rec: Landform, level: 2 wrong, A landform or physical feature. Landform elements include mountains, plains, lakes, rivers, seascape and oceanic waterbody interface features such as bays, peninsulas, seas and so forth, including sub-aqueous terrain features such as submersed mountain ranges, volcanoes, and the great ocean basins.
 
-synset-camp-noun-1
+synset-camp-noun-1 (temporary living quarters specially built by the army for soldiers; "wherever he went in the camp the men were grumbling")
 	lin: Thing, level: 0
-	rec: LodgingBusiness, level: 3
+	rec: LodgingBusiness, level: 3 wrong, A lodging business, such as a motel, hotel, or inn.
 
 synset-camp-noun-2
 	lin: Intangible, level: 1
 	rec: Thing, level: 0
 
-synset-camp-noun-3
+synset-camp-noun-3 (temporary lodgings in the country for travelers or vacationers; "level ground is best for parking and camp areas")
 	lin: Thing, level: 0
-	rec: LodgingBusiness, level: 3
+	rec: LodgingBusiness, level: 3 maybe?; A lodging business, such as a motel, hotel, or inn.
 
-synset-camp-noun-5
+synset-camp-noun-5 (a penal institution (often for forced labor); "China has many camps for political prisoners")
 	lin: Thing, level: 0
-	rec: Place, level: 1
+	rec: Place, level: 1 right, Entities that have a somewhat fixed, physical extension.
 
 synset-camp-noun-6
 	lin: Intangible, level: 1
 	rec: Thing, level: 0
 
-synset-camp-noun-7
+synset-camp-noun-7 (shelter for persons displaced by war or political oppression or for religious beliefs)
 	lin: Thing, level: 0
-	rec: LodgingBusiness, level: 3
+	rec: LodgingBusiness, level: 3 wrong, A lodging business, such as a motel, hotel, or inn.
 
-synset-camp-noun-8
+synset-camp-noun-8  (a site where care and activities are provided for children during the summer months; "city kids get to see the country at a summer camp")
 	lin: Thing, level: 0
-	rec: CivicStructure, level: 2
+	rec: CivicStructure, level: 2 maybe?, A public structure, such as a town hall or concert hall.
 
-synset-can-noun-2
-	lin: Quantity, level: 2
+synset-can-noun-2 (the quantity contained in a can)
+	lin: Quantity, level: 2 right, Quantities such as distance, time, mass, weight, etc. Particular instances of say Mass are entities like '3 Kg' or '4 milligrams'.
 	rec: Intangible, level: 1
 
-synset-canine-noun-1
+synset-canine-noun-1 (one of the four pointed conical teeth (two in each jaw) located between the incisors and the premolars)
 	lin: Thing, level: 0
-	rec: Landform, level: 2
+	rec: Landform, level: 2 wrong, A landform or physical feature. Landform elements include mountains, plains, lakes, rivers, seascape and oceanic waterbody interface features such as bays, peninsulas, seas and so forth, including sub-aqueous terrain features such as submersed mountain ranges, volcanoes, and the great ocean basins.
 
-synset-cannon-noun-5
+synset-cannon-noun-5 (lower part of the leg extending from the hock to the fetlock in hoofed mammals)
 	lin: Thing, level: 0
-	rec: Landform, level: 2
+	rec: Landform, level: 2 wrong, A landform or physical feature. Landform elements include mountains, plains, lakes, rivers, seascape and oceanic waterbody interface features such as bays, peninsulas, seas and so forth, including sub-aqueous terrain features such as submersed mountain ranges, volcanoes, and the great ocean basins.
 
-synset-canvas-noun-3
+synset-canvas-noun-3 (the setting for a narrative or fictional or dramatic account; "the crowded canvas of history"; "the movie demanded a dramatic canvas of sound")
 	lin: Intangible, level: 1
-	rec: Enumeration, level: 2
+	rec: Enumeration, level: 2 wrong, Lists or enumerations—for example, a list of cuisines or music genres, etc.
 
-synset-canvas_tent-noun-1
+synset-canvas_tent-noun-1  (a tent made of canvas fabric)
 	lin: Thing, level: 0
-	rec: SportsActivityLocation, level: 3
+	rec: SportsActivityLocation, level: 3 wrong, A sports location, such as a playing field.
 
-synset-cap-noun-5
+synset-cap-noun-5  (a fruiting structure resembling an umbrella or a cone that forms the top of a stalked fleshy fungus such as a mushroom)
 	lin: Thing, level: 0
-	rec: Place, level: 1
+	rec: Place, level: 1 wrong, Entities that have a somewhat fixed, physical extension.
 
-synset-capital-noun-8
+synset-capital-noun-8 (the upper part of a column that supports the entablature)
 	lin: Thing, level: 0
-	rec: Place, level: 1
+	rec: Place, level: 1 wrong, Entities that have a somewhat fixed, physical extension.
 
-synset-capitulum-noun-1
+synset-capitulum-noun-1 (a dense cluster of flowers or foliage; "a head of cauliflower"; "a head of lettuce")
 	lin: Thing, level: 0
-	rec: Place, level: 1
+	rec: Place, level: 1 wrong, Entities that have a somewhat fixed, physical extension.
 
-synset-caprice-noun-1
+synset-caprice-noun-1 (a sudden desire; "he bought it on an impulse")
 	lin: Intangible, level: 1
-	rec: Enumeration, level: 2
+	rec: Enumeration, level: 2 wrong, Lists or enumerations—for example, a list of cuisines or music genres, etc.
 
-synset-car-noun-3
+synset-car-noun-3 (the compartment that is suspended from an airship and that carries personnel and the cargo and the power plant)
 	lin: Thing, level: 0
-	rec: EntertainmentBusiness, level: 3
+	rec: EntertainmentBusiness, level: 3 maybe?, A business providing entertainment.
 
-synset-car-noun-4
+synset-car-noun-4 (where passengers ride up and down; "the car was on the top floor")
 	lin: Thing, level: 0
-	rec: EntertainmentBusiness, level: 3
+	rec: EntertainmentBusiness, level: 3 wrong, A business providing entertainment.
 
-synset-carcase-noun-1
+synset-carcase-noun-1  (the dead body of an animal especially one slaughtered and dressed for food)
 	lin: Thing, level: 0
-	rec: Place, level: 1
+	rec: Place, level: 1 wrong, Entities that have a somewhat fixed, physical extension.
 
-synset-case-noun-10
-	lin: Quantity, level: 2
+synset-case-noun-10 (the quantity contained in a case)
+	lin: Quantity, level: 2 right, Quantities such as distance, time, mass, weight, etc. Particular instances of say Mass are entities like '3 Kg' or '4 milligrams'.
 	rec: Intangible, level: 1
 
 synset-case-noun-4
 	lin: Intangible, level: 1
 	rec: Thing, level: 0
 
-synset-casing-noun-3
+synset-casing-noun-3 (the enclosing frame around a door or window opening; "the casings had rotted away and had to be replaced")
 	lin: Thing, level: 0
-	rec: SportsActivityLocation, level: 3
+	rec: SportsActevityLocation, level: 3 wrong, A sports location, such as a playing field.
 
 synset-cast-noun-1
 	lin: Intangible, level: 1
 	rec: Thing, level: 0
 
-synset-caul-noun-2
+synset-caul-noun-2  (the inner membrane of embryos in higher vertebrates (especially when covering the head at birth))
 	lin: Thing, level: 0
-	rec: Landform, level: 2
+	rec: Landform, level: 2 wrong, A landform or physical feature. Landform elements include mountains, plains, lakes, rivers, seascape and oceanic waterbody interface features such as bays, peninsulas, seas and so forth, including sub-aqueous terrain features such as submersed mountain ranges, volcanoes, and the great ocean basins.
 
 synset-caution-noun-3
 	lin: Intangible, level: 1
@@ -742,57 +742,57 @@ synset-ceiling-noun-3
 	lin: Intangible, level: 1
 	rec: Thing, level: 0
 
-synset-cell-noun-2
+synset-cell-noun-2 ((biology) the basic structural and functional unit of all organisms; they may exist as independent units of life (as in monads) or may form colonies or tissues as in higher plants and animals)
 	lin: Thing, level: 0
-	rec: Place, level: 1
+	rec: Place, level: 1 wrong, Entities that have a somewhat fixed, physical extension.
 
-synset-cell-noun-4
-	lin: Organization, level: 1
-	rec: AdministrativeArea, level: 2
+synset-cell-noun-4 (a small unit serving as part of or as the nucleus of a larger political movement)
+	lin: Organization, level: 1 right, An organization such as a school, NGO, corporation, club, etc.
+	rec: AdministrativeArea, level: 2 maybe?, A geographical region under the jurisdiction of a particular government.
 
-synset-cell-noun-6
+synset-cell-noun-6 (small room in which a monk or nun lives)
 	lin: Thing, level: 0
-	rec: EntertainmentBusiness, level: 3
+	rec: EntertainmentBusiness, level: 3 wrong, A business providing entertainment.
 
-synset-cell-noun-7
+synset-cell-noun-7 (a room where a prisoner is kept)
 	lin: Thing, level: 0
-	rec: EntertainmentBusiness, level: 3
+	rec: EntertainmentBusiness, level: 3 wrong, A business providing entertainment.
 
-synset-cellar-noun-3
+synset-cellar-noun-3 (storage space where wines are stored)
 	lin: Thing, level: 0
-	rec: SportsActivityLocation, level: 3
+	rec: SportsActivityLocation, level: 3 wrong, A sports location, such as a playing field.
 
-synset-center-noun-1
+synset-center-noun-1 (an area that is approximately central within some larger region; "it is in the center of town"; "they ran forward into the heart of the struggle"; "they were in the eye of the storm")
 	lin: Thing, level: 0
-	rec: Place, level: 1
+	rec: Place, level: 1 right, Entities that have a somewhat fixed, physical extension.
 
-synset-central-noun-1
+synset-central-noun-1 (a workplace that serves as a telecommunications facility where lines from telephones can be connected together to permit communication)
 	lin: Thing, level: 0
-	rec: FoodEstablishment, level: 3
+	rec: FoodEstablishment, level: 3 wrong, A food-related business.
 
-synset-chain-noun-2
+synset-chain-noun-2 ((chemistry) a series of linked atoms (generally in an organic molecule))
 	lin: Thing, level: 0
-	rec: Landform, level: 2
+	rec: Landform, level: 2 wrong, A landform or physical feature. Landform elements include mountains, plains, lakes, rivers, seascape and oceanic waterbody interface features such as bays, peninsulas, seas and so forth, including s
 
-synset-chain-noun-6
-	lin: StructuredValue, level: 2
-	rec: Quantity, level: 2
+synset-chain-noun-6 (a unit of length)
+	lin: StructuredValue, level: 2 right, Structured values are strings—for example, addresses—that have certain constraints on their structure.
+	rec: Quantity, level: 2 maybe?, Quantities such as distance, time, mass, weight, etc. Particular instances of say Mass are entities like '3 Kg' or '4 milligrams'.
 
-synset-challenge-noun-1
+synset-challenge-noun-1 (a demanding or stimulating situation; "they reacted irrationally to the challenge of Russian power")
 	lin: Intangible, level: 1
-	rec: Enumeration, level: 2
+	rec: Enumeration, level: 2 wrong, Lists or enumerations—for example, a list of cuisines or music genres, etc.
 
-synset-championship-noun-1
+synset-championship-noun-1 (the status of being a champion; "he held the title for two years")
 	lin: Intangible, level: 1
-	rec: Enumeration, level: 2
+	rec: Enumeration, level: 2 wrong, Lists or enumerations—for example, a list of cuisines or music genres, etc.
 
-synset-chin-noun-1
+synset-chin-noun-1 (the protruding part of the lower jaw)
 	lin: Thing, level: 0
-	rec: Landform, level: 2
+	rec: Landform, level: 2 wrong, A landform or physical feature. Landform elements include mountains, plains, lakes, rivers, seascape and oceanic waterbody interface features such as bays, peninsulas, seas and so forth, including s
 
-synset-church-noun-1
-	lin: Organization, level: 1
-	rec: LocalBusiness, level: 2
+synset-church-noun-1 (one of the groups of Christians who have their own beliefs and forms of worship)
+	lin: Organization, level: 1 right, An organization such as a school, NGO, corporation, club, etc.
+	rec: LocalBusiness, level: 2 maybe?, A particular physical business or branch of an organization. Examples of LocalBusiness include a restaurant, a particular branch of a restaurant chain, a branch of a bank, a medical practice, a club, a bowling alley, etc.
 
 synset-church-noun-4
 	lin: Intangible, level: 1
@@ -802,9 +802,9 @@ synset-circumstance-noun-3
 	lin: Intangible, level: 1
 	rec: Thing, level: 0
 
-synset-circus_tent-noun-1
+synset-circus_tent-noun-1 (a canvas tent to house the audience at a circus performance; "he was afraid of a fire in the circus tent"; "they had the big top up in less than an hour")
 	lin: Thing, level: 0
-	rec: SportsActivityLocation, level: 3
+	rec: SportsActivityLocation, level: 3 maybe?, A sports location, such as a playing field.
 
 synset-claim-noun-4
 	lin: Intangible, level: 1
@@ -818,53 +818,53 @@ synset-class-noun-6
 	lin: Intangible, level: 1
 	rec: Thing, level: 0
 
-synset-claw-noun-1
+synset-claw-noun-1 (sharp curved horny process on the toe of a bird or some mammals or reptiles)
 	lin: Thing, level: 0
-	rec: Landform, level: 2
+	rec: Landform, level: 2 wrong, A landform or physical feature. Landform elements include mountains, plains, lakes, rivers, seascape and oceanic waterbody interface features such as bays, peninsulas, seas and so forth, including sub-aqueous terrain features such as submersed mountain ranges, volcanoes, and the great ocean basins.
 
-synset-claw-noun-3
+synset-claw-noun-3 (a grasping structure on the limb of a crustacean or other arthropods)
 	lin: Thing, level: 0
-	rec: Landform, level: 2
+	rec: Landform, level: 2 wrong, A landform or physical feature. Landform elements include mountains, plains, lakes, rivers, seascape and oceanic waterbody interface features such as bays, peninsulas, seas and so forth, including sub-aqueous terrain features such as submersed mountain ranges, volcanoes, and the great ocean basins.
 
-synset-claw-noun-4
+synset-claw-noun-4 (a bird's foot)
 	lin: Thing, level: 0
-	rec: Landform, level: 2
+	rec: Landform, level: 2 wrong, A landform or physical feature. Landform elements include mountains, plains, lakes, rivers, seascape and oceanic waterbody interface features such as bays, peninsulas, seas and so forth, including sub-aqueous terrain features such as submersed mountain ranges, volcanoes, and the great ocean basins.
 
 synset-clique-noun-1
 	lin: Intangible, level: 1
 	rec: Thing, level: 0
 
-synset-clitoris-noun-1
+synset-clitoris-noun-1 (a female sexual organ homologous to the penis)
 	lin: Thing, level: 0
-	rec: Landform, level: 2
+	rec: Landform, level: 2 wrong, A landform or physical feature. Landform elements include mountains, plains, lakes, rivers, seascape and oceanic waterbody interface features such as bays, peninsulas, seas and so forth, including sub-aqueous terrain features such as submersed mountain ranges, volcanoes, and the great ocean basins.
 
 synset-clock_time-noun-1
 	lin: Intangible, level: 1
 	rec: Thing, level: 0
 
-synset-closed_chain-noun-1
+synset-closed_chain-noun-1  ((chemistry) a chain of atoms in a molecule that forms a closed loop)
 	lin: Thing, level: 0
-	rec: Landform, level: 2
+	rec: Landform, level: 2 wrong, A landform or physical feature. Landform elements include mountains, plains, lakes, rivers, seascape and oceanic waterbody interface features such as bays, peninsulas, seas and so forth, including sub-aqueous terrain features such as submersed mountain ranges, volcanoes, and the great ocean basins.
 
-synset-cloud-noun-3
+synset-cloud-noun-3 (out of touch with reality; "his head was in the clouds")
 	lin: Intangible, level: 1
-	rec: Enumeration, level: 2
+	rec: Enumeration, level: 2 wrong, Lists or enumerations—for example, a list of cuisines or music genres, etc.
 
-synset-clubhouse-noun-1
+synset-clubhouse-noun-1  (a building that is occupied by a social club; "the clubhouse needed a new roof")
 	lin: Thing, level: 0
-	rec: Residence, level: 2
+	rec: Residence, level: 2 wrong, The place where a person lives.
 
 synset-coast-noun-3
 	lin: Intangible, level: 1
 	rec: Thing, level: 0
 
-synset-coat-noun-3
+synset-coat-noun-3  (growth of hair or wool or fur covering the body of an animal)
 	lin: Thing, level: 0
-	rec: Place, level: 1
+	rec: Place, level: 1 wrong, Entities that have a somewhat fixed, physical extension.
 
-synset-cobweb-noun-3
+synset-cobweb-noun-3  (a dense elaborate spider web that is more efficient than the orb web)
 	lin: Thing, level: 0
-	rec: Place, level: 1
+	rec: Place, level: 1 wrong, Entities that have a somewhat fixed, physical extension.
 
 synset-cogitation-noun-2
 	lin: Intangible, level: 1
@@ -874,41 +874,41 @@ synset-cognition-noun-1
 	lin: Intangible, level: 1
 	rec: Thing, level: 0
 
-synset-coil-noun-1
+synset-coil-noun-1 (a structure consisting of something wound in a continuous series of loops; "a coil of rope")
 	lin: Thing, level: 0
-	rec: SportsActivityLocation, level: 3
+	rec: SportsActivityLocation, level: 3 wrong, A sports location, such as a playing field.
 
-synset-coinage-noun-1
-	lin: Quantity, level: 2
+synset-coinage-noun-1 (coins collectively)
+	lin: Quantity, level: 2 maybe?, Quantities such as distance, time, mass, weight, etc. Particular instances of say Mass are entities like '3 Kg' or '4 milligrams'.
 	rec: Intangible, level: 1
 
 synset-color-noun-7
 	lin: Intangible, level: 1
 	rec: Thing, level: 0
 
-synset-comb-noun-2
+synset-comb-noun-2  (the fleshy red crest on the head of the domestic fowl and other gallinaceous birds)
 	lin: Thing, level: 0
-	rec: Landform, level: 2
+	rec: Landform, level: 2 wrong, A landform or physical feature. Landform elements include mountains, plains, lakes, rivers, seascape and oceanic waterbody interface features such as bays, peninsulas, seas and so forth, including sub-aqueous terrain features such as submersed mountain ranges, volcanoes, and the great ocean basins.
 
-synset-comb-noun-4
+synset-comb-noun-4 (ciliated comb-like swimming plate of a ctenophore)
 	lin: Thing, level: 0
-	rec: Landform, level: 2
+	rec: Landform, level: 2 wrong, A landform or physical feature. Landform elements include mountains, plains, lakes, rivers, seascape and oceanic waterbody interface features such as bays, peninsulas, seas and so forth, including sub-aqueous terrain features such as submersed mountain ranges, volcanoes, and the great ocean basins.
 
-synset-command-noun-6
+synset-command-noun-6  (great skillfulness and knowledge of some subject or activity; "a good command of French")
 	lin: Intangible, level: 1
-	rec: Enumeration, level: 2
+	rec: Enumeration, level: 2 wrong, Lists or enumerations—for example, a list of cuisines or music genres, etc.
 
 synset-common_sense-noun-1
 	lin: Intangible, level: 1
 	rec: Thing, level: 0
 
-synset-company-noun-1
-	lin: Organization, level: 1
-	rec: LocalBusiness, level: 2
+synset-company-noun-1 (an institution created to conduct business; "he only invests in large well-established companies"; "he started the company in his garage")
+	lin: Organization, level: 1 right, An organization such as a school, NGO, corporation, club, etc.
+	rec: LocalBusiness, level: 2 maybe?, A particular physical business or branch of an organization. Examples of LocalBusiness include a restaurant, a particular branch of a restaurant chain, a branch of a bank, a medical practice, a club, a bowling alley, etc.
 
-synset-company-noun-3
+synset-company-noun-3 (the state of being with someone; "he missed their company"; "he enjoyed the society of his friends")
 	lin: Intangible, level: 1
-	rec: Enumeration, level: 2
+	rec: Enumeration, level: 2 wrong, Lists or enumerations—for example, a list of cuisines or music genres, etc.
 
 synset-company-noun-6
 	lin: Intangible, level: 1
@@ -930,29 +930,29 @@ synset-concept-noun-1
 	lin: Intangible, level: 1
 	rec: Thing, level: 0
 
-synset-concern-noun-2
+synset-concern-noun-2 (an anxious feeling; "care had aged him"; "they hushed it up out of fear of public reaction")
 	lin: Intangible, level: 1
-	rec: Enumeration, level: 2
+	rec: Enumeration, level: 2 wrong, Lists or enumerations—for example, a list of cuisines or music genres, etc.
 
 synset-conclusion-noun-2
 	lin: Intangible, level: 1
 	rec: Thing, level: 0
 
-synset-condition-noun-3
+synset-condition-noun-3 (a mode of being or form of existence of a person or thing; "the human condition")
 	lin: Intangible, level: 1
-	rec: Enumeration, level: 2
+	rec: Enumeration, level: 2 wrong, Lists or enumerations—for example, a list of cuisines or music genres, etc.
 
 synset-conference-noun-1
 	lin: Intangible, level: 1
 	rec: Thing, level: 0
 
-synset-conference-noun-3
+synset-conference-noun-3 (a discussion among participants who have an agreed (serious) topic)
 	lin: Intangible, level: 1
-	rec: CreativeWork, level: 1
+	rec: CreativeWork, level: 1 maybe?, The most generic kind of creative work, including books, movies, photographs, software programs, etc.
 
-synset-confluence-noun-1
+synset-confluence-noun-1 (a place where things merge or flow together (especially rivers); "Pittsburgh is located at the confluence of the Allegheny and Monongahela rivers")
 	lin: Thing, level: 0
-	rec: Place, level: 1
+	rec: Place, level: 1 right, Entities that have a somewhat fixed, physical extension.
 
 synset-congregation-noun-1
 	lin: Intangible, level: 1
@@ -970,9 +970,9 @@ synset-congress-noun-3
 	lin: Intangible, level: 1
 	rec: Thing, level: 0
 
-synset-connection-noun-2
+synset-connection-noun-2 (the state of being connected; "the connection between church and state is inescapable")
 	lin: Intangible, level: 1
-	rec: Enumeration, level: 2
+	rec: Enumeration, level: 2 wrong, Lists or enumerations—for example, a list of cuisines or music genres, etc.
 
 synset-control-noun-10
 	lin: Intangible, level: 1
@@ -990,17 +990,17 @@ synset-convention-noun-2
 	lin: Intangible, level: 1
 	rec: Thing, level: 0
 
-synset-cooler-noun-3
+synset-cooler-noun-3 (a cell for violent prisoners)
 	lin: Thing, level: 0
-	rec: EntertainmentBusiness, level: 3
+	rec: EntertainmentBusiness, level: 3 wrong, A business providing entertainment.
 
-synset-copper-noun-2
-	lin: Quantity, level: 2
+synset-copper-noun-2 (a copper penny)
+	lin: Quantity, level: 2 maybe?, Quantities such as distance, time, mass, weight, etc. Particular instances of say Mass are entities like '3 Kg' or '4 milligrams'.
 	rec: Intangible, level: 1
 
-synset-cord-noun-2
-	lin: StructuredValue, level: 2
-	rec: Quantity, level: 2
+synset-cord-noun-2 (a unit of amount of wood cut for burning; 128 cubic feet)
+	lin: StructuredValue, level: 2 right, Structured values are strings—for example, addresses—that have certain constraints on their structure.
+	rec: Quantity, level: 2 maybe?, Quantities such as distance, time, mass, weight, etc. Particular instances of say Mass are entities like '3 Kg' or '4 milligrams'.
 
 synset-corn-noun-2
 	lin: Thing, level: 0
