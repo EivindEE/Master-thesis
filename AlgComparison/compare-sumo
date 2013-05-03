@@ -755,8 +755,8 @@ synset-avail-noun-1
 	rec: instrument
 Same
 synset-avant-garde-noun-1
-	lin: None
-	rec: None
+	lin: Group
+	rec: Group
 Same
 synset-avocation-noun-1
 	lin: RecreationOrExercise
@@ -767,8 +767,8 @@ synset-axial_rotation-noun-1
 	rec: DirectionChange
 Same
 synset-b-complex_vitamin-noun-1
-	lin: None
-	rec: None
+	lin: Vitamin
+	rec: Vitamin
 Same
 synset-b-noun-6
 	lin: AlphabeticCharacter
@@ -5347,8 +5347,8 @@ synset-environment-noun-2
 	rec: GeographicArea
 Same
 synset-enzyme-linked-immunosorbent_serologic_assay-noun-1
-	lin: None
-	rec: None
+	lin: Investigating
+	rec: Investigating
 Same
 synset-equality-noun-2
 	lin: equal
@@ -6927,8 +6927,8 @@ synset-grazing-noun-2
 	rec: Touching
 Same
 synset-grease-gun-noun-1
-	lin: Gun
-	rec: Gun
+	lin: Pump
+	rec: Pump
 Same
 synset-grimace-noun-1
 	lin: BodyMotion
@@ -7215,8 +7215,8 @@ synset-handwriting-noun-1
 	rec: Text
 Same
 synset-hang-up-noun-2
-	lin: None
-	rec: None
+	lin: inhibits
+	rec: inhibits
 Same
 synset-harbor-noun-2
 	lin: SubjectiveAssessmentAttribute
@@ -8147,8 +8147,8 @@ synset-interest-noun-6
 	rec: Organization
 Same
 synset-internal-combustion_engine-noun-1
-	lin: None
-	rec: None
+	lin: Machine
+	rec: Machine
 Same
 synset-international-noun-1
 	lin: PoliticalOrganization
@@ -10575,12 +10575,12 @@ synset-omega-noun-1
 	rec: EndFn
 Same
 synset-one-fifth-noun-1
-	lin: VolumeMeasure
-	rec: VolumeMeasure
+	lin: part
+	rec: part
 Same
 synset-one-fourth-noun-1
-	lin: ListOrderFn
-	rec: ListOrderFn
+	lin: part
+	rec: part
 Same
 synset-operating_room-noun-1
 	lin: Room
@@ -11747,8 +11747,8 @@ synset-porter-noun-7
 	rec: Beer
 Same
 synset-portuguese_man-of-war-noun-1
-	lin: War
-	rec: War
+	lin: Invertebrate
+	rec: Invertebrate
 Same
 synset-position-noun-1
 	lin: located
@@ -12175,8 +12175,8 @@ synset-protest-noun-3
 	rec: Expressing
 Same
 synset-proto-indo_european-noun-1
-	lin: None
-	rec: None
+	lin: NaturalLanguage
+	rec: NaturalLanguage
 Same
 synset-prototype-noun-1
 	lin: SubjectiveAssessmentAttribute
@@ -12431,8 +12431,8 @@ synset-quiver-noun-3
 	rec: Artifact
 Same
 synset-r-2-noun-1
-	lin: Number
-	rec: Number
+	lin: BiologicallyActiveSubstance
+	rec: BiologicallyActiveSubstance
 Same
 synset-r-noun-3
 	lin: AlphabeticCharacter
@@ -14311,8 +14311,8 @@ synset-soup-noun-3
 	rec: SubjectiveAssessmentAttribute
 Same
 synset-soup-strainer-noun-1
-	lin: Filter
-	rec: Filter
+	lin: FacialHair
+	rec: FacialHair
 Same
 synset-south-noun-3
 	lin: South
@@ -15419,8 +15419,8 @@ synset-tender-noun-1
 	rec: CurrencyMeasure
 Same
 synset-tent-fly-noun-1
-	lin: FlyInsect
-	rec: FlyInsect
+	lin: Fabric
+	rec: Fabric
 Same
 synset-tent-noun-1
 	lin: Tent
@@ -15583,8 +15583,8 @@ synset-thread-noun-1
 	rec: String
 Same
 synset-three-toed_sloth-noun-1
-	lin: None
-	rec: None
+	lin: Mammal
+	rec: Mammal
 Same
 synset-thriftlessness-noun-1
 	lin: TraitAttribute
