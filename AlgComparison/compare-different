@@ -1002,9 +1002,9 @@ synset-cord-noun-2 (a unit of amount of wood cut for burning; 128 cubic feet)
 	lin: StructuredValue, level: 2 right, Structured values are strings—for example, addresses—that have certain constraints on their structure.
 	rec: Quantity, level: 2 maybe?, Quantities such as distance, time, mass, weight, etc. Particular instances of say Mass are entities like '3 Kg' or '4 milligrams'.
 
-synset-corn-noun-2
+synset-corn-noun-2  (the dried grains or kernels or corn used as animal feed or ground for meal)
 	lin: Thing, level: 0
-	rec: Place, level: 1
+	rec: Place, level: 1 wrong, Entities that have a somewhat fixed, physical extension.
 
 synset-corn-noun-4
 	lin: Intangible, level: 1
@@ -1014,24 +1014,24 @@ synset-cough-noun-1
 	lin: Intangible, level: 1
 	rec: Thing, level: 0
 
-synset-coulomb-noun-1
-	lin: StructuredValue, level: 2
-	rec: Quantity, level: 2
+synset-coulomb-noun-1 (a unit of electrical charge equal to the amount of charge transferred by a current of 1 ampere in 1 second)
+	lin: StructuredValue, level: 2 right, Structured values are strings—for example, addresses—that have certain constraints on their structure.
+	rec: Quantity, level: 2 right, Quantities such as distance, time, mass, weight, etc. Particular instances of say Mass are entities like '3 Kg' or '4 milligrams'.
 
-synset-cover-noun-9
+synset-cover-noun-9 ((a recording of a song that was first recorded or made popular by somebody else; "they made a cover of a Beatles' song"))
 	lin: Thing, level: 0
-	rec: MediaObject, level: 2
+	rec: MediaObject, level: 2 right, An image, video, or audio object embedded in a web page. Note that a creative work may have many media objects associated with it on the same web page. For example, a page about a single song (MusicRecording) may have a music video (VideoObject), and a high and low bandwidth audio stream (2 AudioObject's)
 
-synset-covering-noun-1
+synset-covering-noun-1 (a natural object that covers or envelops; "under a covering of dust"; "the fox was flushed from its cover")
 	lin: Thing, level: 0
-	rec: Place, level: 1
+	rec: Place, level: 1 wrong, Entities that have a somewhat fixed, physical extension.
 
-synset-cracker-noun-5
+synset-cracker-noun-5 (a party favor consisting of a paper roll (usually containing candy or a small favor) that pops when pulled at both ends)
 	lin: Thing, level: 0
-	rec: Place, level: 1
+	rec: Place, level: 1 wrong, Entities that have a somewhat fixed, physical extension.
 
-synset-crate-noun-2
-	lin: Quantity, level: 2
+synset-crate-noun-2 (the quantity contained in a crate)
+	lin: Quantity, level: 2 right, Quantities such as distance, time, mass, weight, etc. Particular instances of say Mass are entities like '3 Kg' or '4 milligrams'.
 	rec: Intangible, level: 1
 
 synset-credit_rating-noun-1
@@ -1046,37 +1046,37 @@ synset-crowd-noun-2
 	lin: Intangible, level: 1
 	rec: Thing, level: 0
 
-synset-crown-noun-12
+synset-crown-noun-12 (the center of a cambered road)
 	lin: Thing, level: 0
-	rec: Place, level: 1
+	rec: Place, level: 1 right, Entities that have a somewhat fixed, physical extension.
 
-synset-crown-noun-2
+synset-crown-noun-2 (the part of a tooth above the gum that is covered with enamel)
 	lin: Thing, level: 0
-	rec: Place, level: 1
+	rec: Place, level: 1 wrong, Entities that have a somewhat fixed, physical extension.
 
-synset-crown-noun-5
+synset-crown-noun-5 (the part of a hat (the vertex) that covers the crown of the head)
 	lin: Thing, level: 0
-	rec: Place, level: 1
+	rec: Place, level: 1 wrong, Entities that have a somewhat fixed, physical extension.
 
-synset-crown-noun-6
-	lin: Quantity, level: 2
+synset-crown-noun-6 (an English coin worth 5 shillings)
+	lin: Quantity, level: 2 right, Quantities such as distance, time, mass, weight, etc. Particular instances of say Mass are entities like '3 Kg' or '4 milligrams'.
 	rec: Intangible, level: 1
 
-synset-crown-noun-7
+synset-crown-noun-7 (the upper branches and leaves of a tree or other plant)
 	lin: Thing, level: 0
-	rec: Place, level: 1
+	rec: Place, level: 1 wrong, Entities that have a somewhat fixed, physical extension.
 
-synset-cry-noun-1
+synset-cry-noun-1 (a loud utterance; often in protest or opposition; "the speaker was interrupted by loud cries from the rear of the audience")
 	lin: Intangible, level: 1
-	rec: CreativeWork, level: 1
+	rec: CreativeWork, level: 1 wrong, The most generic kind of creative work, including books, movies, photographs, software programs, etc.
 
-synset-cry-noun-2
+synset-cry-noun-2 (a loud utterance of emotion (especially when inarticulate); "a cry of rage"; "a yell of pain")
 	lin: Intangible, level: 1
-	rec: CreativeWork, level: 1
+	rec: CreativeWork, level: 1 wrong, The most generic kind of creative work, including books, movies, photographs, software programs, etc.
 
-synset-cubic_yard-noun-1
-	lin: StructuredValue, level: 2
-	rec: Quantity, level: 2
+synset-cubic_yard-noun-1 (a unit of volume (as for sand or gravel))
+	lin: StructuredValue, level: 2 right, Structured values are strings—for example, addresses—that have certain constraints on their structure.
+	rec: Quantity, level: 2 right, Quantities such as distance, time, mass, weight, etc. Particular instances of say Mass are entities like '3 Kg' or '4 milligrams'.
 
 synset-culture-noun-1
 	lin: Intangible, level: 1
@@ -1090,37 +1090,37 @@ synset-culture-noun-6
 	lin: Intangible, level: 1
 	rec: Thing, level: 0
 
-synset-cup-noun-2
-	lin: Quantity, level: 2
+synset-cup-noun-2 (the quantity a cup will hold; "he drank a cup of coffee"; "he borrowed a cup of sugar")
+	lin: Quantity, level: 2 right, Quantities such as distance, time, mass, weight, etc. Particular instances of say Mass are entities like '3 Kg' or '4 milligrams'.
 	rec: Intangible, level: 1
 
-synset-cup-noun-4
-	lin: StructuredValue, level: 2
-	rec: Quantity, level: 2
+synset-cup-noun-4 (a United States liquid unit equal to 8 fluid ounces)
+	lin: StructuredValue, level: 2 right, Structured values are strings—for example, addresses—that have certain constraints on their structure.
+	rec: Quantity, level: 2 right, Quantities such as distance, time, mass, weight, etc. Particular instances of say Mass are entities like '3 Kg' or '4 milligrams'.
 
-synset-cup-noun-5
+synset-cup-noun-5 (cup-shaped plant organ)
 	lin: Thing, level: 0
-	rec: Place, level: 1
+	rec: Place, level: 1 wrong, Entities that have a somewhat fixed, physical extension.
 
-synset-curtain-noun-2
+synset-curtain-noun-2 (any barrier to communication or vision; "a curtain of secrecy"; "a curtain of trees")
 	lin: Thing, level: 0
-	rec: Place, level: 1
+	rec: Place, level: 1 wrong, Entities that have a somewhat fixed, physical extension.
 
-synset-cutting-noun-2
+synset-cutting-noun-2 (a part (sometimes a root or leaf or bud) removed from a plant to propagate a new plant through rooting or grafting)
 	lin: Thing, level: 0
-	rec: Place, level: 1
+	rec: Place, level: 1 wrong, Entities that have a somewhat fixed, physical extension.
 
-synset-cycle-noun-1
-	lin: Quantity, level: 2
+synset-cycle-noun-1 (an interval during which a recurring sequence of events occurs; "the never-ending cycle of the seasons")
+	lin: Quantity, level: 2 wrong, Quantities such as distance, time, mass, weight, etc. Particular instances of say Mass are entities like '3 Kg' or '4 milligrams'.
 	rec: Intangible, level: 1
 
-synset-daily-noun-1
+synset-daily-noun-1 (a newspaper that is published every day)
 	lin: Thing, level: 0
-	rec: MusicPlaylist, level: 2
+	rec: MusicPlaylist, level: 2 wrong, A collection of music tracks in playlist form.
 
-synset-dairy-noun-1
+synset-dairy-noun-1 (a farm where dairy products are produced)
 	lin: Thing, level: 0
-	rec: FoodEstablishment, level: 3
+	rec: FoodEstablishment, level: 3 maybe?, A food-related business
 
 synset-datum-noun-1
 	lin: Intangible, level: 1
@@ -1130,77 +1130,78 @@ synset-dawn-noun-1
 	lin: Intangible, level: 1
 	rec: Thing, level: 0
 
-synset-day-noun-1
-	lin: Quantity, level: 2
+synset-day-noun-1 (time for Earth to make a complete rotation on its axis; "two days later they left"; "they put on two performances every day"; "there are 30,000 passengers per day")
+	lin: Quantity, level: 2 right, Quantities such as distance, time, mass, weight, etc. Particular instances of say Mass are entities like '3 Kg' or '4 milligrams'.
 	rec: Intangible, level: 1
 
-synset-day-noun-9
+synset-day-noun-9 (a period of opportunity; "he deserves his day in court"; "every dog has his day")
 	lin: Intangible, level: 1
-	rec: Enumeration, level: 2
+	rec: Enumeration, level: 2 wrong, Lists or enumerations—for example, a list of cuisines or music genres, etc.
 
-synset-daze-noun-1
+synset-daze-noun-1 (the feeling of distress and disbelief that you have when something bad happens accidentally; "his mother's death left him in a daze"; "he was numb with shock")
 	lin: Intangible, level: 1
-	rec: Enumeration, level: 2
+	rec: Enumeration, level: 2 wrong, Lists or enumerations—for example, a list of cuisines or music genres, etc.
 
-synset-death-noun-3
+synset-death-noun-3 (the absence of life or state of being dead; "he seemed more content in death than he had ever been in life")
 	lin: Intangible, level: 1
-	rec: Enumeration, level: 2
+	rec: Enumeration, level: 2 wrong, Lists or enumerations—for example, a list of cuisines or music genres, etc.
 
-synset-death-noun-4
-	lin: Quantity, level: 2
+synset-death-noun-4 (the time when something ends; "it was the death of all his plans"; "a dying of old hopes")
+	lin: Quantity, level: 2 wrong, Quantities such as distance, time, mass, weight, etc. Particular instances of say Mass are entities like '3 Kg' or '4 milligrams'.
 	rec: Intangible, level: 1
 
-synset-death-noun-5
-	lin: Quantity, level: 2
+synset-death-noun-5 (the time at which life ends; continuing until dead; "she stayed until his death"; "a struggle to the last")
+	lin: Quantity, level: 2 wrong, Quantities such as distance, time, mass, weight, etc. Particular instances of say Mass are entities like '3 Kg' or '4 milligrams'.
 	rec: Intangible, level: 1
 
-synset-debt-noun-1
+synset-debt-noun-1 (the state of owing something (especially money); "he is badly in debt")
 	lin: Intangible, level: 1
-	rec: Enumeration, level: 2
+	rec: Enumeration, level: 2 wrong, Lists or enumerations—for example, a list of cuisines or music genres, etc.
 
 synset-decision-noun-2
 	lin: Intangible, level: 1
 	rec: Thing, level: 0
 
-synset-deferral-noun-1
+synset-deferral-noun-1 (a state of abeyance or suspended business)
 	lin: Intangible, level: 1
-	rec: Enumeration, level: 2
+	rec: Enumeration, level: 2 wrong, Lists or enumerations—for example, a list of cuisines or music genres, etc.
 
-synset-degree-noun-2
+synset-degree-noun-2 (a specific identifiable position in a continuum or series or especially in a process; "a remarkable degree of frankness"; "at what stage are the social sciences?")
 	lin: Intangible, level: 1
-	rec: Enumeration, level: 2
+	rec: Enumeration, level: 2 maybe?, Lists or enumerations—for example, a list of cuisines or music genres, etc.
 
-synset-degree-noun-4
-	lin: StructuredValue, level: 2
-	rec: Quantity, level: 2
+synset-degree-noun-4 (a measure for arcs and angles; "there are 360 degrees in a circle")
+	lin: StructuredValue, level: 2 right, Structured values are strings—for example, addresses—that have certain constraints on their structure.
+	rec: Quantity, level: 2 right, Structured values are strings—for example, addresses—that have certain constraints on their structure.
 
-synset-degree-noun-6
-	lin: StructuredValue, level: 2
-	rec: Quantity, level: 2
+synset-degree-noun-6 (a unit of temperature on a specified scale; "the game was played in spite of the 40-degree temperature")
+	lin: StructuredValue, level: 2 right, Structured values are strings—for example, addresses—that have certain constraints on their structure.
+	rec: Quantity, level: 2 right, Quantities such as distance, time, mass, weight, etc. Particular instances of say Mass are entities like '3 Kg' or '4 milligrams'.
 
-synset-degree_centigrade-noun-1
-	lin: StructuredValue, level: 2
-	rec: Quantity, level: 2
+synset-degree_centigrade-noun-1 (a degree on the centigrade scale of temperature)
+	lin: StructuredValue, level: 2 right, Structured values are strings—for example, addresses—that have certain constraints on their structure.
+	rec: Quantity, level: 2 right, Quantities such as distance, time, mass, weight, etc. Particular instances of say Mass are entities like '3 Kg' or '4 milligrams'.
 
-synset-degree_fahrenheit-noun-1
-	lin: StructuredValue, level: 2
-	rec: Quantity, level: 2
+synset-degree_fahrenheit-noun-1 (a degree on the Fahrenheit scale of temperature)
+	lin: StructuredValue, level: 2 right, Structured values are strings—for example, addresses—that have certain constraints on their structure.
+	rec: Quantity, level: 2 right, Quantities such as distance, time, mass, weight, etc. Particular instances of say Mass are entities like '3 Kg' or '4 milligrams'.
+
 
 synset-design-noun-2
 	lin: Intangible, level: 1
 	rec: Thing, level: 0
 
-synset-desire-noun-1
+synset-desire-noun-1 (the feeling that accompanies an unsatisfied state)
 	lin: Intangible, level: 1
-	rec: Enumeration, level: 2
+	rec: Enumeration, level: 2 wrong, Lists or enumerations—for example, a list of cuisines or music genres, etc.
 
 synset-detail-noun-1
 	lin: Intangible, level: 1
 	rec: Thing, level: 0
 
-synset-development-noun-6
+synset-development-noun-6 (a district that has been developed to serve some purpose; "such land is practical for small park developments")
 	lin: Thing, level: 0
-	rec: Place, level: 1
+	rec: Place, level: 1 right, Entities that have a somewhat fixed, physical extension.
 
 synset-diet-noun-2
 	lin: Intangible, level: 1
@@ -1210,9 +1211,9 @@ synset-digestion-noun-3
 	lin: Intangible, level: 1
 	rec: Thing, level: 0
 
-synset-direction-noun-1
+synset-direction-noun-1 (a line leading to a place or point; "he looked the other direction"; "didn't know the way home")
 	lin: Thing, level: 0
-	rec: Place, level: 1
+	rec: Place, level: 1 wrong, Entities that have a somewhat fixed, physical extension.
 
 synset-direction-noun-3
 	lin: Intangible, level: 1
@@ -1226,53 +1227,53 @@ synset-discovery-noun-3
 	lin: Intangible, level: 1
 	rec: Thing, level: 0
 
-synset-discussion-noun-2
+synset-discussion-noun-2 (an exchange of views on some topic; "we had a good discussion"; "we had a word or two about it")
 	lin: Intangible, level: 1
-	rec: CreativeWork, level: 1
+	rec: CreativeWork, level: 1 wrong, The most generic kind of creative work, including books, movies, photographs, software programs, etc.
 
-synset-disgust-noun-1
+synset-disgust-noun-1 (fill with distaste; "This spoilt food disgusts me")
 	lin: Intangible, level: 1
-	rec: Enumeration, level: 2
+	rec: Enumeration, level: 2 wrong, Lists or enumerations—for example, a list of cuisines or music genres, etc.
 
-synset-distance-noun-2
+synset-distance-noun-2 (go far ahead of; "He outdistanced the other runners")
 	lin: Thing, level: 0
-	rec: Place, level: 1
+	rec: Place, level: 1 wrong, Entities that have a somewhat fixed, physical extension.
 
-synset-distance-noun-4
+synset-distance-noun-4 (indifference by personal withdrawal; "emotional distance")
 	lin: Intangible, level: 1
-	rec: Enumeration, level: 2
+	rec: Enumeration, level: 2 wrong, Lists or enumerations—for example, a list of cuisines or music genres, etc.
 
-synset-distance-noun-5
-	lin: Quantity, level: 2
+synset-distance-noun-5 (the interval between two times; "the distance from birth to death"; "it all happened in the space of 10 minutes")
+	lin: Quantity, level: 2 right, Quantities such as distance, time, mass, weight, etc. Particular instances of say Mass are entities like '3 Kg' or '4 milligrams'.
 	rec: Intangible, level: 1
 
-synset-distance-noun-6
-	lin: Quantity, level: 2
+synset-distance-noun-6 (a remote point in time; "if that happens it will be at some distance in the future"; "at a distance of ten years he had forgotten many of the details")
+	lin: Quantity, level: 2 right, Quantities such as distance, time, mass, weight, etc. Particular instances of say Mass are entities like '3 Kg' or '4 milligrams'.
 	rec: Intangible, level: 1
 
 synset-distribution-noun-1
 	lin: Intangible, level: 1
 	rec: Thing, level: 0
 
-synset-district-noun-1
+synset-district-noun-1 (a region marked off for administrative or other purposes)
 	lin: Thing, level: 0
-	rec: Place, level: 1
+	rec: Place, level: 1 right, Entities that have a somewhat fixed, physical extension.
 
-synset-dock-noun-1
+synset-dock-noun-1 (an enclosure in a court of law where the defendant sits during the trial)
 	lin: Thing, level: 0
-	rec: SportsActivityLocation, level: 3
+	rec: SportsActivityLocation, level: 3 wrong, A sports location, such as a playing field
 
-synset-dock-noun-5
+synset-dock-noun-5  (landing in a harbor next to a pier where ships are loaded and unloaded or repaired; may have gates to let water in or out; "the ship arrived at the dock more than a day late")
 	lin: Thing, level: 0
-	rec: SportsActivityLocation, level: 3
+	rec: SportsActivityLocation, level: 3 wrong, A sports location, such as a playing field
 
-synset-dock-noun-6
+synset-dock-noun-6 (the solid bony part of the tail of an animal as distinguished from the hair)
 	lin: Thing, level: 0
-	rec: Landform, level: 2
+	rec: Landform, level: 2 wrong, A landform or physical feature. Landform elements include mountains, plains, lakes, rivers, seascape and oceanic waterbody interface features such as bays, peninsulas, seas and so forth, including sub-aqueous terrain features such as submersed mountain ranges, volcanoes, and the great ocean basins.
 
-synset-domain-noun-2
+synset-domain-noun-2 (territory over which rule or control is exercised; "his domain extended into Europe"; "he made it the law of the land")
 	lin: Thing, level: 0
-	rec: Place, level: 1
+	rec: Place, level: 1 right, Entities that have a somewhat fixed, physical extension.
 
 synset-donkey-noun-1
 	lin: Intangible, level: 1
@@ -1282,65 +1283,65 @@ synset-door-noun-3
 	lin: Intangible, level: 1
 	rec: Thing, level: 0
 
-synset-door-noun-4
+synset-door-noun-4 (a structure where people live or work (usually ordered along a street or road); "the office next door"; "they live two doors up the street from us")
 	lin: Thing, level: 0
-	rec: SportsActivityLocation, level: 3
+	rec: SportsActivityLocation, level: 3 wrong, A sports location, such as a playing field
 
-synset-door-noun-5
+synset-door-noun-5 (a room that is entered via a door; "his office is the third door down the hall on the left")
 	lin: Thing, level: 0
-	rec: EntertainmentBusiness, level: 3
+	rec: EntertainmentBusiness, level: 3 wrong, A business providing entertainment.
 
-synset-dose-noun-2
-	lin: Quantity, level: 2
+synset-dose-noun-2 (the quantity of an active agent (substance or radiation) taken in or absorbed at any one time)
+	lin: Quantity, level: 2 right, Quantities such as distance, time, mass, weight, etc. Particular instances of say Mass are entities like '3 Kg' or '4 milligrams'.
 	rec: Intangible, level: 1
 
-synset-drink-noun-1
-	lin: Quantity, level: 2
+synset-drink-noun-1 (a single serving of a beverage; "I asked for a hot drink"; "likes a drink before dinner")
+	lin: Quantity, level: 2 right, Quantities such as distance, time, mass, weight, etc. Particular instances of say Mass are entities like '3 Kg' or '4 milligrams'.
 	rec: Intangible, level: 1
 
-synset-drop-noun-2
-	lin: Quantity, level: 2
+synset-drop-noun-2 (a small indefinite quantity (especially of a liquid); "he had a drop too much to drink"; "a drop of each sample was analyzed"; "there is not a drop of pity in that man"; "years afterward, they would pay the blood-money, driblet by driblet"--Kipling)
+	lin: Quantity, level: 2 right, Quantities such as distance, time, mass, weight, etc. Particular instances of say Mass are entities like '3 Kg' or '4 milligrams'.
 	rec: Intangible, level: 1
 
-synset-drop-noun-5
+synset-drop-noun-5 (a predetermined hiding place for the deposit and distribution of illicit goods (such as drugs or stolen property))
 	lin: Thing, level: 0
-	rec: Place, level: 1
+	rec: Place, level: 1 right, Entities that have a somewhat fixed, physical extension.
 
-synset-drop-noun-8
+synset-drop-noun-8 (a central depository where things can be left or picked up)
 	lin: Thing, level: 0
-	rec: CivicStructure, level: 2
+	rec: CivicStructure, level: 2 wrong, A public structure, such as a town hall or concert hall.
 
-synset-duct-noun-1
+synset-duct-noun-1 (a bodily passage or tube lined with epithelial cells and conveying a secretion or other substance; "the tear duct was obstructed"; "the alimentary canal"; "poison is released through a channel in the snake's fangs")
 	lin: Thing, level: 0
-	rec: Landform, level: 2
+	rec: Landform, level: 2 wrong, A landform or physical feature. Landform elements include mountains, plains, lakes, rivers, seascape and oceanic waterbody interface features such as bays, peninsulas, seas and so forth, including sub-aqueous terrain features such as submersed mountain ranges, volcanoes, and the great ocean basins.
 
 synset-ear-noun-4
 	lin: Intangible, level: 1
 	rec: Thing, level: 0
 
-synset-ear-noun-5
+synset-ear-noun-5 (fruiting spike of a cereal plant especially corn)
 	lin: Thing, level: 0
-	rec: Place, level: 1
+	rec: Place, level: 1 wrong, Entities that have a somewhat fixed, physical extension.
 
-synset-earshot-noun-1
+synset-earshot-noun-1 (the range within which a voice can be heard; "the children were told to stay within earshot")
 	lin: Thing, level: 0
-	rec: Place, level: 1
+	rec: Place, level: 1 right, Entities that have a somewhat fixed, physical extension.
 
-synset-earth-noun-4
+synset-earth-noun-4 (the abode of mortals (as contrasted with Heaven or Hell); "it was hell on earth")
 	lin: Thing, level: 0
-	rec: Place, level: 1
+	rec: Place, level: 1 right, Entities that have a somewhat fixed, physical extension.
 
-synset-earthquake-noun-2
+synset-earthquake-noun-2 (a disturbance that is extremely disruptive; "selling the company caused an earthquake among the employees")
 	lin: Intangible, level: 1
-	rec: Enumeration, level: 2
+	rec: Enumeration, level: 2 wrong, Lists or enumerations—for example, a list of cuisines or music genres, etc.
 
-synset-edge-noun-1
+synset-edge-noun-1 (the boundary of a surface)
 	lin: Thing, level: 0
-	rec: Place, level: 1
+	rec: Place, level: 1 maybe?, Entities that have a somewhat fixed, physical extension.
 
-synset-edge-noun-6
+synset-edge-noun-6 (the outside limit of an object or area or surface; a place farthest away from the center of something; "the edge of the leaf is wavy"; "she sat on the edge of the bed"; "the water's edge")
 	lin: Thing, level: 0
-	rec: Place, level: 1
+	rec: Place, level: 1 maybe?, Entities that have a somewhat fixed, physical extension.
 
 synset-education-noun-2
 	lin: Intangible, level: 1
@@ -1358,53 +1359,53 @@ synset-effect-noun-6
 	lin: Intangible, level: 1
 	rec: Thing, level: 0
 
-synset-egg-noun-1
+synset-egg-noun-1 (animal reproductive body consisting of an ovum or embryo together with nutritive and protective envelopes; especially the thin-shelled reproductive body laid by e.g. female birds)
 	lin: Thing, level: 0
-	rec: Place, level: 1
+	rec: Place, level: 1 wrong, Entities that have a somewhat fixed, physical extension.
 
-synset-elbow-noun-1
+synset-elbow-noun-1 (hinge joint between the forearm and upper arm and the corresponding joint in the forelimb of a quadruped)
 	lin: Thing, level: 0
-	rec: Landform, level: 2
+	rec: Landform, level: 2 wrong, A landform or physical feature. Landform elements include mountains, plains, lakes, rivers, seascape and oceanic waterbody interface features such as bays, peninsulas, seas and so forth, including sub-aqueous terrain features such as submersed mountain ranges, volcanoes, and the great ocean basins.
 
-synset-elbow-noun-2
+synset-elbow-noun-2 (a sharp bend in a road or river)
 	lin: Thing, level: 0
-	rec: Place, level: 1
+	rec: Place, level: 1 right, Entities that have a somewhat fixed, physical extension. 
 
-synset-elbow-noun-5
+synset-elbow-noun-5  (the joint of a mammal or bird that corresponds to the human elbow)
 	lin: Thing, level: 0
-	rec: Landform, level: 2
+	rec: Landform, level: 2 wrong, A landform or physical feature. Landform elements include mountains, plains, lakes, rivers, seascape and oceanic waterbody interface features such as bays, peninsulas, seas and so forth, including sub-aqueous terrain features such as submersed mountain ranges, volcanoes, and the great ocean basins.
 
-synset-ember-noun-1
+synset-ember-noun-1 (a hot fragment of wood or coal that is left from a fire and is glowing or smoldering)
 	lin: Thing, level: 0
-	rec: Landform, level: 2
+	rec: Landform, level: 2 wrong, A landform or physical feature. Landform elements include mountains, plains, lakes, rivers, seascape and oceanic waterbody interface features such as bays, peninsulas, seas and so forth, including sub-aqueous terrain features such as submersed mountain ranges, volcanoes, and the great ocean basins.
 
-synset-eminence-noun-1
+synset-eminence-noun-1 (high status importance owing to marked superiority; "a scholar of great eminence")
 	lin: Intangible, level: 1
-	rec: Enumeration, level: 2
+	rec: Enumeration, level: 2 wrong, Lists or enumerations—for example, a list of cuisines or music genres, etc.
 
-synset-en-noun-1
-	lin: StructuredValue, level: 2
-	rec: Quantity, level: 2
+synset-en-noun-1 (half the width of an em)
+	lin: StructuredValue, level: 2 right, Structured values are strings—for example, addresses—that have certain constraints on their structure.
+	rec: Quantity, level: 2 right, Quantities such as distance, time, mass, weight, etc. Particular instances of say Mass are entities like '3 Kg' or '4 milligrams'.
 
-synset-end-noun-10
+synset-end-noun-10 (one of two places from which people are communicating to each other; "the phone rang at the other end"; "both ends wrote at the same time")
 	lin: Thing, level: 0
-	rec: Place, level: 1
+	rec: Place, level: 1 right, Entities that have a somewhat fixed, physical extension.
 
-synset-end-noun-2
-	lin: Quantity, level: 2
+synset-end-noun-2 (the point in time at which something ends; "the end of the year"; "the ending of warranty period")
+	lin: Quantity, level: 2 wrong, Quantities such as distance, time, mass, weight, etc. Particular instances of say Mass are entities like '3 Kg' or '4 milligrams'.
 	rec: Intangible, level: 1
 
 synset-end-noun-5
 	lin: Intangible, level: 1
 	rec: Thing, level: 0
 
-synset-end-noun-6
+synset-end-noun-6  (a final state; "he came to a bad end"; "the so-called glorious experiment came to an inglorious end")
 	lin: Intangible, level: 1
-	rec: Enumeration, level: 2
+	rec: Enumeration, level: 2 wrong, Lists or enumerations—for example, a list of cuisines or music genres, etc.
 
-synset-end-noun-7
+synset-end-noun-7 (the surface at either extremity of a three-dimensional object; "one end of the box was marked `This side up'")
 	lin: Thing, level: 0
-	rec: Place, level: 1
+	rec: Place, level: 1 wrong, Entities that have a somewhat fixed, physical extension.
 
 synset-end-noun-9
 	lin: Thing, level: 0
