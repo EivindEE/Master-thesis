@@ -1,0 +1,24 @@
+\section{WordNet}
+The main goal of WordNet is to organize the dictionary not by the terms lexical representation but by the semantics of the terms.\citep{Miller1990}
+Syncronic ≈ contemporary ≈ as it exists at one point in time
+
+$\{x,x',...\}$ $\{y,y',...\}$
+\begin{table}[ht]
+	\centering
+	\begin{tabular}{|c||ccccccc|}
+		\hline
+	        Word     & 	~		 & ~		 & Word Forms & ~ & ~ & ~ & ~		  \\ 
+	        Meanings & F$_1$     & F$_2$     & F$_3$      & . & . & . & F$_n$     \\ \hline
+	        M$_1$    & E$_{1,1}$ & E$_{1,2}$ & ~          & ~ & ~ & ~ & ~         \\ 
+	        M$_2$    & ~         & E$_{2,2}$ & ~          & ~ & ~ & ~ & ~         \\ 
+	        M$_3$    & ~         & ~         & E$_{3,3}$  & ~ & ~ & ~ & ~         \\ 
+	        .        & ~         & ~         & ~          & . & ~ & ~ & ~         \\ 
+	        .        & ~         & ~         & ~          & ~ & . & ~ & ~         \\ 
+	        .        & ~         & ~         & ~          & ~ & ~ & . & ~         \\  
+	        M$_m$    & ~         & ~         & ~          & ~ & ~ & ~ & E$_{m,n}$ \\
+		\hline
+	\end{tabular}
+	\caption{A lexical matrix, from \citet{Miller1990}}
+	\label{table:LexicalMatrix}
+\end{table}
+
