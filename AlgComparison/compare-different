@@ -263,7 +263,7 @@ synset-bag-noun-2 (the quantity of game taken in a particular period (usually by
 	rec: Intangible, level: 1
 
 synset-bag-noun-5 (the quantity that a bag will hold; "he ate a large bag of popcorn")
-	lin: Quantity, level: 2 maybe, Quantities such as distance, time, mass, weight, etc. Particular instances of say Mass are entities like '3 Kg' or '4 milligrams'.
+	lin: Quantity, level: 2 right, Quantities such as distance, time, mass, weight, etc. Particular instances of say Mass are entities like '3 Kg' or '4 milligrams'.
 	rec: Intangible, level: 1
 
 synset-bait-noun-1
@@ -1111,7 +1111,7 @@ synset-cutting-noun-2 (a part (sometimes a root or leaf or bud) removed from a p
 	rec: Place, level: 1 wrong, Entities that have a somewhat fixed, physical extension.
 
 synset-cycle-noun-1 (an interval during which a recurring sequence of events occurs; "the never-ending cycle of the seasons")
-	lin: Quantity, level: 2 wrong, Quantities such as distance, time, mass, weight, etc. Particular instances of say Mass are entities like '3 Kg' or '4 milligrams'.
+	lin: Quantity, level: 2 right, Quantities such as distance, time, mass, weight, etc. Particular instances of say Mass are entities like '3 Kg' or '4 milligrams'.
 	rec: Intangible, level: 1
 
 synset-daily-noun-1 (a newspaper that is published every day)
