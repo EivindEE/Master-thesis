@@ -1,4 +1,3 @@
-Master-thesis
+Master thesis research notes
 =============
-This repo contains the thesis part of my master thesis.
-The product designed can be found at http://microbrewit.thunemedia.no:3000
+Research notes for my thesis in information science
